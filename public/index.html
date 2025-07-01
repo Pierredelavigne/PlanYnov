@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plan 3D des Salles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Plan d'Occupation des Salles</h1>
+        <div class="controls">
+            <p>Naviguez avec la souris (clic gauche + déplacer pour orbiter, molette pour zoomer, clic droit + déplacer pour translater).</p>
+            <p><a href="http://localhost:5001/" target="_blank">Gérer les données (upload fichier)</a></p>
+        </div>
+    </header>
+
+    <main>
+        <div id="scene-container">
+            <!-- La scène Three.js sera injectée ici -->
+        </div>
+        <aside id="info-panel">
+            <h2>Informations de la Salle</h2>
+            <div id="salle-info-content">
+                <p>Cliquez sur une salle pour voir ses détails.</p>
+            </div>
+            <div class="legend">
+                <h3>Légende :</h3>
+                <p><span class="color-box libre"></span> Salle Libre</p>
+                <p><span class="color-box occupee"></span> Salle Occupée</p>
+                <p><span class="color-box indetermine"></span> Salle (état indéterminé/pas de données)</p>
+            </div>
+        </aside>
+    </main>
+
+    <div id="etage-controls">
+        <h2>Étages</h2>
+        <button data-etage="all">Tous</button>
+        <button data-etage="0">Étage 0 (RDC)</button>
+        <button data-etage="1">Étage 1</button>
+        <button data-etage="2">Étage 2</button>
+        <!-- Ajouter plus de boutons si nécessaire -->
+    </div>
+
+    <footer>
+        <p>Application de visualisation 3D des salles.</p>
+    </footer>
+
+    <!-- Scripts -->
+    <!-- Three.js via CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <!-- OrbitControls pour la navigation -->
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+    <!-- Notre script principal -->
+    <script type="module" src="main.js"></script>
+</body>
+</html>
