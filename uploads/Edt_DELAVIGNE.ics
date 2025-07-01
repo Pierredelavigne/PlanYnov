@@ -1,0 +1,2839 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2025
+METHOD:PUBLISH
+X-CALSTART:20240902T000000Z
+X-CALEND:20251004T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - DELAVIGNE Pierre 10/01/2001 (6848 - Lille | 
+ DEVWEB MAST1) - du 02 septembre 2024 au 04 octobre 2025
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de DELAVIGNE Pierre 10/01/2001 gén
+ éré par le logiciel HP (©INDEX ÉDUCATION) le 01 juil. 2025 - LILLE YNOV CA
+ MPUS - valable sur la période du 02 septembre 2024 au 04 octobre 2025 - Se
+ maines : semaine 36 - 40
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20240820T145345Z
+UID:Cours-2-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241214T150000Z
+DTEND:20241214T220000Z
+SUMMARY;LANGUAGE=fr:Suivi péda S1 ALT - Lille | DEVWEB MAST1 - Présentiel
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi péda S1 ALT\nPromotion : Lille | DE
+ VWEB MAST1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi péda S1 ALT<br/>Promotion : Li
+ lle | DEVWEB MAST1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250204T071658Z
+UID:Cours-6-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250205T160000Z
+DTEND:20250205T170000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S1 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S1\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S1<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20240611T124509Z
+UID:Cours-9-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241007T070000Z
+DTEND:20241007T110000Z
+SUMMARY;LANGUAGE=fr:Welcome Day M1 - Lille | DEVWEB MAST1 - Présentiel
+DESCRIPTION;LANGUAGE=fr:Matière : Welcome Day M1\nPromotion : Lille | DEVWE
+ B MAST1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Welcome Day M1<br/>Promotion : Lille
+  | DEVWEB MAST1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20240611T124444Z
+UID:Cours-10-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241007T120000Z
+DTEND:20241007T150000Z
+SUMMARY;LANGUAGE=fr:Welcome Day M1 - Lille | DEVWEB MAST1 - Présentiel
+DESCRIPTION;LANGUAGE=fr:Matière : Welcome Day M1\nPromotion : Lille | DEVWE
+ B MAST1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Welcome Day M1<br/>Promotion : Lille
+  | DEVWEB MAST1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241002T110545Z
+UID:Cours-12-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241011T120000Z
+DTEND:20241011T160000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S1 - Lille | DEVWEB MAST1 - PREZ + TOEIC BLA
+ NC - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S1\nPromotion : Lille | DEVWEB
+  MAST1\nMémo : PREZ + TOEIC BLANC\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S1<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Mémo : PREZ + TOEIC BLANC<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250217T094745Z
+UID:Cours-14-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250225T130000Z
+DTEND:20250225T170000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S2 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S2\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S2<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250224T154959Z
+UID:Cours-32-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250318T080000Z
+DTEND:20250318T120000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241022T150938Z
+UID:Cours-41-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241031T080000Z
+DTEND:20241031T120000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - En visio - Présentiel
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nMémo : En visio\nType : P
+ résentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Mémo : En v
+ isio<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241210T103810Z
+UID:Cours-42-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241213T130000Z
+DTEND:20241213T170000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 006 RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 006
+  RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 006 RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241022T150828Z
+UID:Cours-44-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241031T130000Z
+DTEND:20241031T160000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - En visio - Présentiel
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nMémo : En visio\nType : P
+ résentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Mémo : En v
+ isio<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241115T143757Z
+UID:Cours-45-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241122T140000Z
+DTEND:20241122T170000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241002T105346Z
+UID:Cours-48-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241009T070000Z
+DTEND:20241009T110000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241002T105354Z
+UID:Cours-50-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241009T120000Z
+DTEND:20241009T150000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241028T084718Z
+UID:Cours-53-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241029T130000Z
+DTEND:20241029T170000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094813Z
+UID:Cours-54-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241028T130000Z
+DTEND:20241028T160000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094813Z
+UID:Cours-54-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241118T130000Z
+DTEND:20241118T160000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094813Z
+UID:Cours-54-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241209T130000Z
+DTEND:20241209T160000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094813Z
+UID:Cours-54-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250203T130000Z
+DTEND:20250203T160000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094813Z
+UID:Cours-54-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250224T130000Z
+DTEND:20250224T160000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094813Z
+UID:Cours-54-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250407T120000Z
+DTEND:20250407T150000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241025T101622Z
+UID:Cours-433-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241031T160000Z
+DTEND:20241031T170000Z
+SUMMARY;LANGUAGE=fr:IA M1 S1 - Lille | DEVWEB MAST1 - IA : Histoire éthique
+  et droit - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : IA M1 S1\nPromotion : Lille | DEVWEB MAST
+ 1\nMémo : IA : Histoire éthique et droit\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA M1 S1<br/>Promotion : Lille | DEV
+ WEB MAST1<br/>Mémo : IA : Histoire éthique et droit<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241105T112235Z
+UID:Cours-435-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241209T160000Z
+DTEND:20241209T173000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S1 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S1\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S1<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241028T084728Z
+UID:Cours-436-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241028T090000Z
+DTEND:20241028T120000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S1 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S1\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S1<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250410T072212Z
+UID:Cours-442-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250613T150000Z
+DTEND:20250613T160000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S2 - Lille | DEVWEB MAST1 - EVAL - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S2\nPromotion : Lille | DEVWEB
+  MAST1\nMémo : EVAL\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S2<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Mémo : EVAL<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250109T160345Z
+UID:Cours-443-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250114T130000Z
+DTEND:20250114T160000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PLANCKAERT - DOOGETHER - Lille | D
+ EVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PLANCKA
+ ERT - DOOGETHER\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 0
+ 09 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PLANCKAERT - DOOGETHER<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : C
+ ROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250109T160345Z
+UID:Cours-444-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250113T130000Z
+DTEND:20250113T160000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PLANCKAERT - DOOGETHER - Lille | D
+ EVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PLANCKA
+ ERT - DOOGETHER\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 0
+ 09 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PLANCKAERT - DOOGETHER<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : C
+ ROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250109T160345Z
+UID:Cours-445-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250114T080000Z
+DTEND:20250114T120000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PLANCKAERT - DOOGETHER - Lille | D
+ EVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PLANCKA
+ ERT - DOOGETHER\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 0
+ 09 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PLANCKAERT - DOOGETHER<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : C
+ ROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250109T160345Z
+UID:Cours-446-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250113T080000Z
+DTEND:20250113T120000Z
+SUMMARY;LANGUAGE=fr:Hackathon - Monsieur PLANCKAERT - DOOGETHER - Lille | D
+ EVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Hackathon\nIntervenant : Monsieur PLANCKA
+ ERT - DOOGETHER\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 0
+ 09 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Hackathon<br/>Intervenant : Monsieur
+  PLANCKAERT - DOOGETHER<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : C
+ ROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250203T133516Z
+UID:Cours-447-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250205T080000Z
+DTEND:20250205T120000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - A DISTANCE - TEAMS - Présentiel
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nMémo : A DISTANCE - TEAMS
+ \nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Mémo : A DI
+ STANCE - TEAMS<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250203T133520Z
+UID:Cours-448-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250205T130000Z
+DTEND:20250205T160000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - A DISTANCE - TEAMS - Présentiel
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nMémo : A DISTANCE - TEAMS
+ \nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Mémo : A DI
+ STANCE - TEAMS<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094951Z
+UID:Cours-449-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250520T120000Z
+DTEND:20250520T150000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095027Z
+UID:Cours-450-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250206T130000Z
+DTEND:20250206T160000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095027Z
+UID:Cours-450-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250320T130000Z
+DTEND:20250320T160000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095027Z
+UID:Cours-450-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250410T120000Z
+DTEND:20250410T150000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095027Z
+UID:Cours-450-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250612T120000Z
+DTEND:20250612T150000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094935Z
+UID:Cours-451-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250519T070000Z
+DTEND:20250519T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095022Z
+UID:Cours-452-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250206T080000Z
+DTEND:20250206T120000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095022Z
+UID:Cours-452-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250320T080000Z
+DTEND:20250320T120000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095022Z
+UID:Cours-452-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250410T070000Z
+DTEND:20250410T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095022Z
+UID:Cours-452-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250612T070000Z
+DTEND:20250612T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241203T105558Z
+UID:Cours-455-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250117T080000Z
+DTEND:20250117T120000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094600Z
+UID:Cours-457-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250227T130000Z
+DTEND:20250227T160000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094555Z
+UID:Cours-458-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250227T080000Z
+DTEND:20250227T120000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250217T095251Z
+UID:Cours-459-35-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250429T080000Z
+DTEND:20250429T110000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 -
+  Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094906Z
+UID:Cours-467-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250317T080000Z
+DTEND:20250317T120000Z
+SUMMARY;LANGUAGE=fr:Méthodo tests - Monsieur AIJJOU - Lille | DEVWEB MAST1 
+ - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo tests\nIntervenant : Monsieur AIJ
+ JOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info RD
+ C\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodo tests<br/>Intervenant : Mons
+ ieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Salle
+  009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094906Z
+UID:Cours-467-35-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250428T070000Z
+DTEND:20250428T110000Z
+SUMMARY;LANGUAGE=fr:Méthodo tests - Monsieur AIJJOU - Lille | DEVWEB MAST1 
+ - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo tests\nIntervenant : Monsieur AIJ
+ JOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info RD
+ C\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodo tests<br/>Intervenant : Mons
+ ieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Salle
+  009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094819Z
+UID:Cours-470-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250408T070000Z
+DTEND:20250408T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094823Z
+UID:Cours-471-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250408T120000Z
+DTEND:20250408T150000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094941Z
+UID:Cours-474-35-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250428T120000Z
+DTEND:20250428T160000Z
+SUMMARY;LANGUAGE=fr:Méthodo tests - Monsieur AIJJOU - Lille | DEVWEB MAST1 
+ - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo tests\nIntervenant : Monsieur AIJ
+ JOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info RD
+ C\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodo tests<br/>Intervenant : Mons
+ ieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Salle
+  009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094941Z
+UID:Cours-474-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250519T120000Z
+DTEND:20250519T160000Z
+SUMMARY;LANGUAGE=fr:Méthodo tests - Monsieur AIJJOU - Lille | DEVWEB MAST1 
+ - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo tests\nIntervenant : Monsieur AIJ
+ JOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info RD
+ C\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodo tests<br/>Intervenant : Mons
+ ieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Salle
+  009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250516T081922Z
+UID:Cours-475-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250613T070000Z
+DTEND:20250613T110000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 007 -
+  3D RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095137Z
+UID:Cours-488-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250520T070000Z
+DTEND:20250520T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095137Z
+UID:Cours-488-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250624T070000Z
+DTEND:20250624T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 007 - 3D RDC
+ \nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095125Z
+UID:Cours-489-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250623T080000Z
+DTEND:20250623T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 007 - 3D RDC
+ \nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250408T100423Z
+UID:Cours-491-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250610T070000Z
+DTEND:20250610T110000Z
+SUMMARY;LANGUAGE=fr:Méthodo tests - Monsieur AIJJOU - Lille | DEVWEB MAST1 
+ - Présentiel
+LOCATION;LANGUAGE=fr:LILLE - SALLE 3
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo tests\nIntervenant : Monsieur AIJ
+ JOU\nPromotion : Lille | DEVWEB MAST1\nSalle : LILLE - SALLE 3\nType : Pré
+ sentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodo tests<br/>Intervenant : Mons
+ ieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : LILLE - SALLE
+  3<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250408T100430Z
+UID:Cours-492-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250610T120000Z
+DTEND:20250610T160000Z
+SUMMARY;LANGUAGE=fr:Méthodo tests - Monsieur AIJJOU - Lille | DEVWEB MAST1 
+ - Présentiel
+LOCATION;LANGUAGE=fr:LILLE - SALLE 3
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo tests\nIntervenant : Monsieur AIJ
+ JOU\nPromotion : Lille | DEVWEB MAST1\nSalle : LILLE - SALLE 3\nType : Pré
+ sentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodo tests<br/>Intervenant : Mons
+ ieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : LILLE - SALLE
+  3<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250625T071227Z
+UID:Cours-493-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250625T120000Z
+DTEND:20250625T140000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info R
+ DC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095142Z
+UID:Cours-494-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250624T120000Z
+DTEND:20250624T150000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 007 - 3D RDC
+ \nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095131Z
+UID:Cours-495-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250623T120000Z
+DTEND:20250623T160000Z
+SUMMARY;LANGUAGE=fr:Méthodo tests - Monsieur AIJJOU - Lille | DEVWEB MAST1 
+ - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo tests\nIntervenant : Monsieur AIJ
+ JOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 007 - 3D RDC\
+ nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodo tests<br/>Intervenant : Mons
+ ieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Salle
+  007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T095148Z
+UID:Cours-497-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250625T070000Z
+DTEND:20250625T110000Z
+SUMMARY;LANGUAGE=fr:Web full stack - Monsieur AIJJOU - Lille | DEVWEB MAST1
+  - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Web full stack\nIntervenant : Monsieur AI
+ JJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 007 - 3D RDC
+ \nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Web full stack<br/>Intervenant : Mon
+ sieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sall
+ e 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094920Z
+UID:Cours-500-35-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250429T120000Z
+DTEND:20250429T160000Z
+SUMMARY;LANGUAGE=fr:Projet de fin d'études M1 INFO - Monsieur EL MOUTAOUKIL
+  - Lille | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Projet de fin d'études M1 INFO\nIntervena
+ nt : Monsieur EL MOUTAOUKIL\nPromotion : Lille | DEVWEB MAST1\nSalle : CRO
+ IX - Salle 009 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet de fin d'études M1 INFO<br/>I
+ ntervenant : Monsieur EL MOUTAOUKIL<br/>Promotion : Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250620T135544Z
+UID:Cours-501-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250626T070000Z
+DTEND:20250626T110000Z
+SUMMARY;LANGUAGE=fr:Projet de fin d'études M1 INFO - Monsieur EL MOUTAOUKIL
+  - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Projet de fin d'études M1 INFO\nIntervena
+ nt : Monsieur EL MOUTAOUKIL\nPromotion : Lille | DEVWEB MAST1\nType : FOAD
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet de fin d'études M1 INFO<br/>I
+ ntervenant : Monsieur EL MOUTAOUKIL<br/>Promotion : Lille | DEVWEB MAST1<b
+ r/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250612T094736Z
+UID:Cours-503-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250626T120000Z
+DTEND:20250626T150000Z
+SUMMARY;LANGUAGE=fr:Projet de fin d'études M1 INFO - Monsieur EL MOUTAOUKIL
+  - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Projet de fin d'études M1 INFO\nIntervena
+ nt : Monsieur EL MOUTAOUKIL\nPromotion : Lille | DEVWEB MAST1\nType : FOAD
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet de fin d'études M1 INFO<br/>I
+ ntervenant : Monsieur EL MOUTAOUKIL<br/>Promotion : Lille | DEVWEB MAST1<b
+ r/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T102857Z
+UID:Cours-1603-35-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250430T070000Z
+DTEND:20250430T110000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présen
+ tiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T102801Z
+UID:Cours-1605-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241211T080000Z
+DTEND:20241211T120000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présence Euratechnologies - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - SOUK
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalle : CROIX - SO
+ UK\nMémo : Présence Euratechnologies\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ e : CROIX - SOUK<br/>Mémo : Présence Euratechnologies<br/>Type : Présentie
+ l<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075434Z
+UID:Cours-1827-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250226T080000Z
+DTEND:20250226T120000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Monsieur COULON\, Madame WELT - Lille | BRDE
+ SIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA
+  MAST1\, Lille | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenants : Monsieur COULON\
+ , Madame WELT\nPromotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\
+ , Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSa
+ lles : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présent
+ iel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenants : Monsieur
+  COULON\, Madame WELT<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMB
+ RAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMS
+ M MAST1<br/>Salles : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<b
+ r/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075434Z
+UID:Cours-1827-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250319T080000Z
+DTEND:20250319T120000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Monsieur DEBUREAU\, Monsieur DUBOIS\, Monsie
+ ur LEFEVRE\, Madame WELT - Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\,
+  Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1 - Pr
+ ésentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX 
+ - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenants : Monsieur DEBUREA
+ U\, Monsieur DUBOIS\, Monsieur LEFEVRE\, Madame WELT\nPromotions : Lille |
+  BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DI
+ MEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - Salle 005 RDC\, CROI
+ X - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nT
+ ype : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenants : Monsieur
+  DEBUREAU\, Monsieur DUBOIS\, Monsieur LEFEVRE\, Madame WELT<br/>Promotion
+ s : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\,
+  Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Salles : CROIX - Salle 
+ 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle
+  102 ETAGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075434Z
+UID:Cours-1827-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250409T070000Z
+DTEND:20250409T110000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX 
+ - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX - 
+ Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETA
+ GE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075434Z
+UID:Cours-1827-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250521T070000Z
+DTEND:20250521T110000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Lille | BRDESIG MAST1\, Lille | CMBRAND MAST
+ 1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1 -
+  Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 001 RDC\, CROIX - Salle 005 RDC\, CROIX 
+ - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nPromotions : Lille | BRDESIG MA
+ ST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1
+ \, Lille | MPBIMSM MAST1\nSalles : CROIX - Salle 001 RDC\, CROIX - Salle 0
+ 05 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle 
+ 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Promotions : Lille | BR
+ DESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMED
+ IA MAST1\, Lille | MPBIMSM MAST1<br/>Salles : CROIX - Salle 001 RDC\, CROI
+ X - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CRO
+ IX - Salle 102 ETAGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250114T103040Z
+UID:Cours-1829-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241030T080000Z
+DTEND:20241030T120000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Monsieur COULON\, Madame DEBUISSON\, Monsieu
+ r DEBUREAU\, Monsieur LEFEVRE\, Madame WELT - Lille | BRDESIG MAST1\, Lill
+ e | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille |
+  MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 102 ETAGE1\, CROIX - SOUK
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenants : Monsieur COULON\
+ , Madame DEBUISSON\, Monsieur DEBUREAU\, Monsieur LEFEVRE\, Madame WELT\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 102 ETAGE1\, CROIX - SOUK\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenants : Monsieur
+  COULON\, Madame DEBUISSON\, Monsieur DEBUREAU\, Monsieur LEFEVRE\, Madame
+  WELT<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 102 ETAGE1\, CROIX - SOUK<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250114T103040Z
+UID:Cours-1829-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250115T080000Z
+DTEND:20250115T120000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Monsieur COULON\, Madame DEBUISSON\, Monsieu
+ r DEBUREAU\, Monsieur DUBOIS\, Monsieur LEFEVRE\, Madame WELT - Lille | BR
+ DESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMED
+ IA MAST1\, Lille | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX 
+ - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenants : Monsieur COULON\
+ , Madame DEBUISSON\, Monsieur DEBUREAU\, Monsieur DUBOIS\, Monsieur LEFEVR
+ E\, Madame WELT\nPromotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST
+ 1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\n
+ Salles : CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101
+  ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenants : Monsieur
+  COULON\, Madame DEBUISSON\, Monsieur DEBUREAU\, Monsieur DUBOIS\, Monsieu
+ r LEFEVRE\, Madame WELT<br/>Promotions : Lille | BRDESIG MAST1\, Lille | C
+ MBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBI
+ MSM MAST1<br/>Salles : CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CRO
+ IX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présentiel<br/
+ >
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20240911T122758Z
+UID:Cours-3051-2-DELAVIGNE_Pierre-Index-Education
+DTSTART:20240909T070000Z
+DTEND:20240909T110000Z
+SUMMARY;LANGUAGE=fr:Suivi péda S1 ALT - Monsieur ALEXANDRE\, Monsieur DEBUR
+ EAU - Lille | DEVWEB MAST1\, Lille | DEVWEB MAST2 - JURY Rapport d'activit
+ é pro B3 M1 23 24 - Présentiel
+LOCATION;LANGUAGE=fr:LILLE - SALLE REUNION
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi péda S1 ALT\nIntervenants : Monsieu
+ r ALEXANDRE\, Monsieur DEBUREAU\nPromotions : Lille | DEVWEB MAST1\, Lille
+  | DEVWEB MAST2\nSalle : LILLE - SALLE REUNION\nMémo : JURY Rapport d'acti
+ vité pro B3 M1 23 24\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi péda S1 ALT<br/>Intervenants :
+  Monsieur ALEXANDRE\, Monsieur DEBUREAU<br/>Promotions : Lille | DEVWEB MA
+ ST1\, Lille | DEVWEB MAST2<br/>Salle : LILLE - SALLE REUNION<br/>Mémo : JU
+ RY Rapport d'activité pro B3 M1 23 24<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250124T094000Z
+UID:Cours-4881-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250206T170000Z
+DTEND:20250206T190000Z
+SUMMARY;LANGUAGE=fr:IA M1 S1 - Lille | DEVWEB MAST1\, Lille | MPBIMSM MAST1
+  - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : IA M1 S1\nPromotions : Lille | DEVWEB MAS
+ T1\, Lille | MPBIMSM MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA M1 S1<br/>Promotions : Lille | DE
+ VWEB MAST1\, Lille | MPBIMSM MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241219T142111Z
+UID:Cours-6086-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241008T070000Z
+DTEND:20241008T110000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241219T142111Z
+UID:Cours-6086-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241119T080000Z
+DTEND:20241119T120000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241219T142111Z
+UID:Cours-6086-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241210T080000Z
+DTEND:20241210T120000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241219T142111Z
+UID:Cours-6086-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250204T080000Z
+DTEND:20250204T120000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241203T104958Z
+UID:Cours-6087-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241210T130000Z
+DTEND:20241210T150000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250124T093940Z
+UID:Cours-6088-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250207T140000Z
+DTEND:20250207T170000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S1 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S1\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S1<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241105T112305Z
+UID:Cours-6089-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241212T170000Z
+DTEND:20241212T180000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S1 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S1\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S1<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20240813T100442Z
+UID:Cours-7711-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250116T160000Z
+DTEND:20250116T170000Z
+SUMMARY;LANGUAGE=fr:RSE M1 S1 - Lille | DEVWEB MAST1\, Lille | MPBIMSM MAST
+ 1 - VSS et handicap - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : RSE M1 S1\nPromotions : Lille | DEVWEB MA
+ ST1\, Lille | MPBIMSM MAST1\nMémo : VSS et handicap\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : RSE M1 S1<br/>Promotions : Lille | D
+ EVWEB MAST1\, Lille | MPBIMSM MAST1<br/>Mémo : VSS et handicap<br/>Type : 
+ FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250313T083956Z
+UID:Cours-7715-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250318T130000Z
+DTEND:20250318T150000Z
+SUMMARY;LANGUAGE=fr:RSE M1 S2 - Lille | DEVWEB MAST1 - intro to task part 2
+  - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : RSE M1 S2\nPromotion : Lille | DEVWEB MAS
+ T1\nMémo : intro to task part 2\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : RSE M1 S2<br/>Promotion : Lille | DE
+ VWEB MAST1<br/>Mémo : intro to task part 2<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20240813T130207Z
+UID:Cours-7742-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241211T160000Z
+DTEND:20241211T170000Z
+SUMMARY;LANGUAGE=fr:IA M1 S1 - Lille | DEVWEB MAST1 - IA textuelle + exos -
+  FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : IA M1 S1\nPromotion : Lille | DEVWEB MAST
+ 1\nMémo : IA textuelle + exos\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA M1 S1<br/>Promotion : Lille | DEV
+ WEB MAST1<br/>Mémo : IA textuelle + exos<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250217T094752Z
+UID:Cours-7744-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250226T160000Z
+DTEND:20250226T170000Z
+SUMMARY;LANGUAGE=fr:IA M1 S2 - Lille | DEVWEB MAST1\, Lille | MPBIMSM MAST1
+  - IA audio - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : IA M1 S2\nPromotions : Lille | DEVWEB MAS
+ T1\, Lille | MPBIMSM MAST1\nMémo : IA audio\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA M1 S2<br/>Promotions : Lille | DE
+ VWEB MAST1\, Lille | MPBIMSM MAST1<br/>Mémo : IA audio<br/>Type : FOAD<br/
+ >
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241025T123302Z
+UID:Cours-7762-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241029T080000Z
+DTEND:20241029T120000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241203T105605Z
+UID:Cours-7764-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250117T130000Z
+DTEND:20250117T170000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241230T162819Z
+UID:Cours-8240-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250701T080000Z
+DTEND:20250701T110000Z
+SUMMARY;LANGUAGE=fr:IA spécialisé - Monsieur LAUNAY - Lille | CYBSEC MAST1\
+ , Lille | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : IA spécialisé\nIntervenant : Monsieur LAU
+ NAY\nPromotions : Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1\nSalle : CRO
+ IX - Salle 007 - 3D RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA spécialisé<br/>Intervenant : Mons
+ ieur LAUNAY<br/>Promotions : Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241230T162819Z
+UID:Cours-8241-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250630T080000Z
+DTEND:20250630T110000Z
+SUMMARY;LANGUAGE=fr:IA spécialisé - Monsieur LAUNAY - Lille | CYBSEC MAST1\
+ , Lille | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : IA spécialisé\nIntervenant : Monsieur LAU
+ NAY\nPromotions : Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1\nSalle : CRO
+ IX - Salle 007 - 3D RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA spécialisé<br/>Intervenant : Mons
+ ieur LAUNAY<br/>Promotions : Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241230T162814Z
+UID:Cours-8244-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250630T120000Z
+DTEND:20250630T150000Z
+SUMMARY;LANGUAGE=fr:IA spécialisé - Monsieur LAUNAY - Lille | CYBSEC MAST1\
+ , Lille | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : IA spécialisé\nIntervenant : Monsieur LAU
+ NAY\nPromotions : Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1\nSalle : CRO
+ IX - Salle 007 - 3D RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA spécialisé<br/>Intervenant : Mons
+ ieur LAUNAY<br/>Promotions : Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T102748Z
+UID:Cours-9444-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241120T080000Z
+DTEND:20241120T120000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 006 RDC\, CROIX - Salle 102 ETAGE1\, CRO
+ IX - SOUK
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 006 RDC\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK\nType : Présentiel\
+ n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 006 RDC\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK<br/>T
+ ype : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250114T104040Z
+UID:Cours-9522-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250116T080000Z
+DTEND:20250116T120000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Monsieur COULON\, Monsieur DEBUREAU\, Monsie
+ ur DUBOIS - Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 001 RDC\, CROIX - Salle 004 RDC\, CROIX 
+ - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX
+  - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenants : Monsieur COULON\
+ , Monsieur DEBUREAU\, Monsieur DUBOIS\nPromotions : Lille | BRDESIG MAST1\
+ , Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, L
+ ille | MPBIMSM MAST1\nSalles : CROIX - Salle 001 RDC\, CROIX - Salle 004 R
+ DC\, CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETA
+ GE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenants : Monsieur
+  COULON\, Monsieur DEBUREAU\, Monsieur DUBOIS<br/>Promotions : Lille | BRD
+ ESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDI
+ A MAST1\, Lille | MPBIMSM MAST1<br/>Salles : CROIX - Salle 001 RDC\, CROIX
+  - Salle 004 RDC\, CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX -
+  Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T102907Z
+UID:Cours-9528-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250522T070000Z
+DTEND:20250522T110000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 001 RDC\, CROIX - Salle 004 RDC\, CROIX 
+ - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX
+  - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 001 RDC\, CROIX - Salle 004 RDC\, CROIX - Salle 005 RDC\, CROIX - Sal
+ le 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : P
+ résentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 001 RDC\, CROIX - Salle 004 RDC\, CROIX - Salle 005 RDC
+ \, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ET
+ AGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T102739Z
+UID:Cours-9583-9-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241030T130000Z
+DTEND:20241030T160000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T102749Z
+UID:Cours-9699-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241120T130000Z
+DTEND:20241120T160000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 006 RDC\, CROIX - Salle 102 ETAGE1\, CRO
+ IX - SOUK
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 006 RDC\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK\nType : Présentiel\
+ n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 006 RDC\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK<br/>T
+ ype : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T102801Z
+UID:Cours-9700-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241211T130000Z
+DTEND:20241211T160000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présen
+ tiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250114T103632Z
+UID:Cours-9701-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250115T130000Z
+DTEND:20250115T160000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Madame DEBUISSON\, Monsieur LEFEVRE - Lille 
+ | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | D
+ IMEDIA MAST1\, Lille | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX 
+ - Salle 101 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenants : Madame DEBUISSON
+ \, Monsieur LEFEVRE\nPromotions : Lille | BRDESIG MAST1\, Lille | CMBRAND 
+ MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAS
+ T1\nSalles : CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle
+  101 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenants : Madame D
+ EBUISSON\, Monsieur LEFEVRE<br/>Promotions : Lille | BRDESIG MAST1\, Lille
+  | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | 
+ MPBIMSM MAST1<br/>Salles : CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\,
+  CROIX - Salle 101 ETAGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241017T155300Z
+UID:Cours-9702-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250116T130000Z
+DTEND:20250116T160000Z
+SUMMARY;LANGUAGE=fr:Ydays S1 - Madame WELT - Lille | BRDESIG MAST1\, Lille 
+ | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | M
+ PBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX 
+ - Salle 101 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S1\nIntervenant : Madame WELT\nProm
+ otions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MA
+ ST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - Sall
+ e 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1\nType : Prése
+ ntiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S1<br/>Intervenant : Madame WE
+ LT<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille 
+ | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Salles 
+ : CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 101 ETAGE1
+ <br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075500Z
+UID:Cours-9703-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250226T130000Z
+DTEND:20250226T160000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présen
+ tiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075500Z
+UID:Cours-9703-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250319T130000Z
+DTEND:20250319T160000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC\, CROIX - Salle 101 ETAGE
+ 1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 009 - Info RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\
+ nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 009 - Info RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Sal
+ le 102 ETAGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075500Z
+UID:Cours-9703-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250409T120000Z
+DTEND:20250409T150000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présen
+ tiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075500Z
+UID:Cours-9703-35-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250430T120000Z
+DTEND:20250430T150000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présen
+ tiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250328T075500Z
+UID:Cours-9703-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250521T120000Z
+DTEND:20250521T150000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BALLART - Lille | BRDESIG MAST1\, Lil
+ le | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille 
+ | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB
+  MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSalles : CROIX - S
+ alle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\, Lil
+ le | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1<br/>Sall
+ es : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<br/>Type : Présen
+ tiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250521T130107Z
+UID:Cours-9712-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250522T120000Z
+DTEND:20250522T150000Z
+SUMMARY;LANGUAGE=fr:Ydays S2 - Madame BELFATMI\, Madame WELT - Lille | BRDE
+ SIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA
+  MAST1\, Lille | MPBIMSM MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Ydays S2\nIntervenants : Madame BELFATMI\
+ , Madame WELT\nPromotions : Lille | BRDESIG MAST1\, Lille | CMBRAND MAST1\
+ , Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMSM MAST1\nSa
+ lles : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\nType : Présent
+ iel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Ydays S2<br/>Intervenants : Madame B
+ ELFATMI\, Madame WELT<br/>Promotions : Lille | BRDESIG MAST1\, Lille | CMB
+ RAND MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1\, Lille | MPBIMS
+ M MAST1<br/>Salles : CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1<b
+ r/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241203T105342Z
+UID:Cours-9728-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241212T130000Z
+DTEND:20241212T170000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241203T105335Z
+UID:Cours-9729-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241010T070000Z
+DTEND:20241010T110000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241203T105335Z
+UID:Cours-9729-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241121T080000Z
+DTEND:20241121T120000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 004 RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 004
+  RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 004 RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241203T105335Z
+UID:Cours-9729-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241212T080000Z
+DTEND:20241212T120000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094809Z
+UID:Cours-9770-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241118T080000Z
+DTEND:20241118T120000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094809Z
+UID:Cours-9770-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241209T080000Z
+DTEND:20241209T120000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094809Z
+UID:Cours-9770-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250203T080000Z
+DTEND:20250203T120000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094809Z
+UID:Cours-9770-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250224T080000Z
+DTEND:20250224T120000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241231T094809Z
+UID:Cours-9770-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250407T070000Z
+DTEND:20250407T110000Z
+SUMMARY;LANGUAGE=fr:Intégration déploiement - Monsieur GHARBI - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Intégration déploiement\nIntervenant : Mo
+ nsieur GHARBI\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Intégration déploiement<br/>Interven
+ ant : Monsieur GHARBI<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241216T084753Z
+UID:Cours-9855-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250207T080000Z
+DTEND:20250207T090000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S1 - Lille | DEVWEB MAST1\, Lille | MPBIM
+ SM MAST1 - ADEO : Test de personnalité MBTI - Présentiel
+LOCATION;LANGUAGE=fr:LILLE - SALLE 4
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S1\nPromotions : Lille | DE
+ VWEB MAST1\, Lille | MPBIMSM MAST1\nSalle : LILLE - SALLE 4\nMémo : ADEO :
+  Test de personnalité MBTI\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S1<br/>Promotions : Li
+ lle | DEVWEB MAST1\, Lille | MPBIMSM MAST1<br/>Salle : LILLE - SALLE 4<br/
+ >Mémo : ADEO : Test de personnalité MBTI<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241115T143817Z
+UID:Cours-9924-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241010T120000Z
+DTEND:20241010T150000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241115T143817Z
+UID:Cours-9924-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241121T130000Z
+DTEND:20241121T160000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 004 RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 004
+  RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 004 RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241219T142117Z
+UID:Cours-9925-6-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241008T120000Z
+DTEND:20241008T150000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241219T142117Z
+UID:Cours-9925-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241119T130000Z
+DTEND:20241119T160000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241219T142117Z
+UID:Cours-9925-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250204T130000Z
+DTEND:20250204T160000Z
+SUMMARY;LANGUAGE=fr:Architecture logicielle - Monsieur AIJJOU - Lille | DEV
+ WEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Architecture logicielle\nIntervenant : Mo
+ nsieur AIJJOU\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009
+  - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Architecture logicielle<br/>Interven
+ ant : Monsieur AIJJOU<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CRO
+ IX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241105T112343Z
+UID:Cours-9926-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241210T150000Z
+DTEND:20241210T170000Z
+SUMMARY;LANGUAGE=fr:RSE M1 S1 - Lille | DEVWEB MAST1 - TASK - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : RSE M1 S1\nPromotion : Lille | DEVWEB MAS
+ T1\nMémo : TASK\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : RSE M1 S1<br/>Promotion : Lille | DE
+ VWEB MAST1<br/>Mémo : TASK<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241121T111257Z
+UID:Cours-9956-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241122T130000Z
+DTEND:20241122T140000Z
+SUMMARY;LANGUAGE=fr:IA M1 S1 - Lille | BRDESIG MAST1\, Lille | CMBRAND MAST
+ 1\, Lille | DEVWEB MAST1 - MasterClass "Impacts de l'IA sur les métiers et
+  compétences"
+DESCRIPTION;LANGUAGE=fr:Matière : IA M1 S1\nPromotions : Lille | BRDESIG MA
+ ST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1\nMémo : MasterClass "Im
+ pacts de l'IA sur les métiers et compétences"\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA M1 S1<br/>Promotions : Lille | BR
+ DESIG MAST1\, Lille | CMBRAND MAST1\, Lille | DEVWEB MAST1<br/>Mémo : Mast
+ erClass "Impacts de l'IA sur les métiers et compétences"<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241227T084643Z
+UID:Cours-10745-20-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250115T160000Z
+DTEND:20250115T170000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Lille | DEVWEB MAST1 - L'acquisition
+  d'une compétence - FOAD
+LOCATION;LANGUAGE=fr:MOODLE - DISTANCIEL
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nPromotion : Lille | DEV
+ WEB MAST1\nSalle : MOODLE - DISTANCIEL\nMémo : L'acquisition d'une compéte
+ nce\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Promotion : Lil
+ le | DEVWEB MAST1<br/>Salle : MOODLE - DISTANCIEL<br/>Mémo : L'acquisition
+  d'une compétence<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241227T084915Z
+UID:Cours-10747-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250224T160000Z
+DTEND:20250224T170000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Lille | DEVWEB MAST1\, Lille | MPBIM
+ SM MAST1 - 9 rituels à adopter pour devenir un manager à succès - FOAD
+LOCATION;LANGUAGE=fr:MOODLE - DISTANCIEL
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nPromotions : Lille | DE
+ VWEB MAST1\, Lille | MPBIMSM MAST1\nSalle : MOODLE - DISTANCIEL\nMémo : 9 
+ rituels à adopter pour devenir un manager à succès\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Promotions : Li
+ lle | DEVWEB MAST1\, Lille | MPBIMSM MAST1<br/>Salle : MOODLE - DISTANCIEL
+ <br/>Mémo : 9 rituels à adopter pour devenir un manager à succès<br/>Type 
+ : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241227T085303Z
+UID:Cours-10750-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250407T150000Z
+DTEND:20250407T160000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Lille | DEVWEB MAST1\, Lille | MPBIM
+ SM MAST1 - Les compétences au cœur du marché de travail - FOAD
+LOCATION;LANGUAGE=fr:MOODLE - DISTANCIEL
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nPromotions : Lille | DE
+ VWEB MAST1\, Lille | MPBIMSM MAST1\nSalle : MOODLE - DISTANCIEL\nMémo : Le
+ s compétences au cœur du marché de travail\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Promotions : Li
+ lle | DEVWEB MAST1\, Lille | MPBIMSM MAST1<br/>Salle : MOODLE - DISTANCIEL
+ <br/>Mémo : Les compétences au cœur du marché de travail<br/>Type : FOAD<b
+ r/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241227T085417Z
+UID:Cours-10752-35-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250430T150000Z
+DTEND:20250430T160000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Lille | DEVWEB MAST1\, Lille | MPBIM
+ SM MAST1 - Préparer son entretien d'embauche - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nPromotions : Lille | DE
+ VWEB MAST1\, Lille | MPBIMSM MAST1\nMémo : Préparer son entretien d'embauc
+ he\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Promotions : Li
+ lle | DEVWEB MAST1\, Lille | MPBIMSM MAST1<br/>Mémo : Préparer son entreti
+ en d'embauche<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250303T143942Z
+UID:Cours-10758-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250611T090000Z
+DTEND:20250611T110000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Lille | DEVWEB MAST1 - Animer et mot
+ iver l’équipe au quotidien +les codes générationnels dans le management - 
+ FOAD
+LOCATION;LANGUAGE=fr:MOODLE - DISTANCIEL
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nPromotion : Lille | DEV
+ WEB MAST1\nSalle : MOODLE - DISTANCIEL\nMémo : Animer et motiver l’équipe 
+ au quotidien +les codes générationnels dans le management\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Promotion : Lil
+ le | DEVWEB MAST1<br/>Salle : MOODLE - DISTANCIEL<br/>Mémo : Animer et mot
+ iver l’équipe au quotidien +les codes générationnels dans le management<br
+ />Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250318T085722Z
+UID:Cours-10880-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250412T120000Z
+DTEND:20250412T150000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S2 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S2\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S2<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250109T143102Z
+UID:Cours-10881-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250320T160000Z
+DTEND:20250320T180000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S2 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S2\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S2<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250318T083423Z
+UID:Cours-10882-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250321T130000Z
+DTEND:20250321T160000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Monsieur LIEFOOGHE - Lille | DEVWEB 
+ MAST1 - Atelier écriture - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 003 RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nIntervenant : Monsieur 
+ LIEFOOGHE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 003 RDC
+ \nMémo : Atelier écriture\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Intervenant : M
+ onsieur LIEFOOGHE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 003 RDC<br/>Mémo : Atelier écriture<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250124T092835Z
+UID:Cours-11137-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250317T130000Z
+DTEND:20250317T170000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250124T093925Z
+UID:Cours-11138-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250207T090000Z
+DTEND:20250207T110000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:LILLE -  SALLE 8
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : LILLE -  SALLE 8\nTyp
+ e : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : LILLE -
+   SALLE 8<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250124T093935Z
+UID:Cours-11139-23-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250207T120000Z
+DTEND:20250207T140000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:LILLE -  SALLE 8
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : LILLE -  SALLE 8\nTyp
+ e : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : LILLE -
+   SALLE 8<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250217T095251Z
+UID:Cours-11330-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250228T080000Z
+DTEND:20250228T120000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 -
+  Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250217T095251Z
+UID:Cours-11330-29-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250321T080000Z
+DTEND:20250321T120000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 -
+  Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250217T095251Z
+UID:Cours-11330-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250523T070000Z
+DTEND:20250523T110000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 -
+  Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250516T081922Z
+UID:Cours-11331-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250613T120000Z
+DTEND:20250613T150000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 007 - 3D RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 007 -
+  3D RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 007 - 3D RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250522T102651Z
+UID:Cours-11653-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250630T070000Z
+DTEND:20250630T080000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Lille | CMBRAND MAST1\, Lille | CYBS
+ EC MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDIA MAST1 - Présenter son re
+ ndu d'expérience professionnelle - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nPromotions : Lille | CM
+ BRAND MAST1\, Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1\, Lille | DIMEDI
+ A MAST1\nMémo : Présenter son rendu d'expérience professionnelle\nType : F
+ OAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Promotions : Li
+ lle | CMBRAND MAST1\, Lille | CYBSEC MAST1\, Lille | DEVWEB MAST1\, Lille 
+ | DIMEDIA MAST1<br/>Mémo : Présenter son rendu d'expérience professionnell
+ e<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250313T083908Z
+UID:Cours-11688-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250701T120000Z
+DTEND:20250701T150000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 101 E
+ TAGE1\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 101 ETAGE1<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250701T143110Z
+UID:Cours-11690-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250702T070000Z
+DTEND:20250702T100000Z
+SUMMARY;LANGUAGE=fr:Pilotage stratégie SI - Monsieur YOUNES - Lille | DEVWE
+ B MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Pilotage stratégie SI\nIntervenant : Mons
+ ieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 -
+  Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Pilotage stratégie SI<br/>Intervenan
+ t : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX
+  - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250320T144257Z
+UID:Cours-11763-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250411T070000Z
+DTEND:20250411T110000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250320T144251Z
+UID:Cours-11764-32-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250411T120000Z
+DTEND:20250411T160000Z
+SUMMARY;LANGUAGE=fr:Gestion projet IT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion projet IT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion projet IT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250625T144139Z
+UID:Cours-11852-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250627T120000Z
+DTEND:20250627T150000Z
+SUMMARY;LANGUAGE=fr:IA M2 S2 - Monsieur AUBIN\, Madame BALLART\, Monsieur L
+ ORIDAN\, Monsieur VISNJEVEC - Lille | AV B3 CREACOM\, Lille | BRDESIG MAST
+ 1\, Lille | BRDESIG MAST2\, Lille | CMBRAND MAST1\, Lille | COMDMM MAST2\,
+  Lille | CYBSEC B3\, Lille | CYBSEC MAST1\, Lille | CYBSEC MAST2\, Lille |
+  DAMD MAST2\, Lille | DESIG B3 MOTD\, Lille | DEVWEB MAST1\, Lille | DEVWE
+ B MAST2\, Lille | DIMEDIA MAST1\, Lille | INFO B3 DEV\, Lille | INFO B3 GP
+ ROG\, Lille | MACODI B3 COMC\, Lille | MPBIMSM MAST1 - HACKATON IA FOR GOO
+ D - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 001 RDC\, CROIX - Salle 003 RDC\, CROIX 
+ - Salle 004 RDC\, CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - 
+ Salle 007 - 3D RDC\, CROIX - Salle 009 - Info RDC\, CROIX - Salle 101 ETAG
+ E1\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK
+DESCRIPTION;LANGUAGE=fr:Matière : IA M2 S2\nIntervenants : Monsieur AUBIN\,
+  Madame BALLART\, Monsieur LORIDAN\, Monsieur VISNJEVEC\nPromotions : Lill
+ e | AV B3 CREACOM\, Lille | BRDESIG MAST1\, Lille | BRDESIG MAST2\, Lille 
+ | CMBRAND MAST1\, Lille | COMDMM MAST2\, Lille | CYBSEC B3\, Lille | CYBSE
+ C MAST1\, Lille | CYBSEC MAST2\, Lille | DAMD MAST2\, Lille | DESIG B3 MOT
+ D\, Lille | DEVWEB MAST1\, Lille | DEVWEB MAST2\, Lille | DIMEDIA MAST1\, 
+ Lille | INFO B3 DEV\, Lille | INFO B3 GPROG\, Lille | MACODI B3 COMC\, Lil
+ le | MPBIMSM MAST1\nSalles : CROIX - Salle 001 RDC\, CROIX - Salle 003 RDC
+ \, CROIX - Salle 004 RDC\, CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\,
+  CROIX - Salle 007 - 3D RDC\, CROIX - Salle 009 - Info RDC\, CROIX - Salle
+  101 ETAGE1\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK\nMémo : HACKATON IA 
+ FOR GOOD\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA M2 S2<br/>Intervenants : Monsieur
+  AUBIN\, Madame BALLART\, Monsieur LORIDAN\, Monsieur VISNJEVEC<br/>Promot
+ ions : Lille | AV B3 CREACOM\, Lille | BRDESIG MAST1\, Lille | BRDESIG MAS
+ T2\, Lille | CMBRAND MAST1\, Lille | COMDMM MAST2\, Lille | CYBSEC B3\, Li
+ lle | CYBSEC MAST1\, Lille | CYBSEC MAST2\, Lille | DAMD MAST2\, Lille | D
+ ESIG B3 MOTD\, Lille | DEVWEB MAST1\, Lille | DEVWEB MAST2\, Lille | DIMED
+ IA MAST1\, Lille | INFO B3 DEV\, Lille | INFO B3 GPROG\, Lille | MACODI B3
+  COMC\, Lille | MPBIMSM MAST1<br/>Salles : CROIX - Salle 001 RDC\, CROIX -
+  Salle 003 RDC\, CROIX - Salle 004 RDC\, CROIX - Salle 005 RDC\, CROIX - S
+ alle 006 RDC\, CROIX - Salle 007 - 3D RDC\, CROIX - Salle 009 - Info RDC\,
+  CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK<br/>Mé
+ mo : HACKATON IA FOR GOOD<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250626T135107Z
+UID:Cours-11853-43-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250627T070000Z
+DTEND:20250627T110000Z
+SUMMARY;LANGUAGE=fr:IA M2 S2 - Madame BALLART - Lille | AV B3 CREACOM\, Lil
+ le | BRDESIG MAST1\, Lille | BRDESIG MAST2\, Lille | CMBRAND MAST1\, Lille
+  | COMDMM MAST2\, Lille | CYBSEC B3\, Lille | CYBSEC MAST1\, Lille | CYBSE
+ C MAST2\, Lille | DAMD MAST2\, Lille | DESIG B3 MOTD\, Lille | DEVWEB MAST
+ 1\, Lille | DEVWEB MAST2\, Lille | DIMEDIA MAST1\, Lille | INFO B3 DEV\, L
+ ille | INFO B3 GPROG\, Lille | MACODI B3 COMC\, Lille | MPBIMSM MAST1 - HA
+ CKATON IA FOR GOOD - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 001 RDC\, CROIX - Salle 003 RDC\, CROIX 
+ - Salle 004 RDC\, CROIX - Salle 005 RDC\, CROIX - Salle 006 RDC\, CROIX - 
+ Salle 007 - 3D RDC\, CROIX - Salle 009 - Info RDC\, CROIX - Salle 101 ETAG
+ E1\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK
+DESCRIPTION;LANGUAGE=fr:Matière : IA M2 S2\nIntervenant : Madame BALLART\nP
+ romotions : Lille | AV B3 CREACOM\, Lille | BRDESIG MAST1\, Lille | BRDESI
+ G MAST2\, Lille | CMBRAND MAST1\, Lille | COMDMM MAST2\, Lille | CYBSEC B3
+ \, Lille | CYBSEC MAST1\, Lille | CYBSEC MAST2\, Lille | DAMD MAST2\, Lill
+ e | DESIG B3 MOTD\, Lille | DEVWEB MAST1\, Lille | DEVWEB MAST2\, Lille | 
+ DIMEDIA MAST1\, Lille | INFO B3 DEV\, Lille | INFO B3 GPROG\, Lille | MACO
+ DI B3 COMC\, Lille | MPBIMSM MAST1\nSalles : CROIX - Salle 001 RDC\, CROIX
+  - Salle 003 RDC\, CROIX - Salle 004 RDC\, CROIX - Salle 005 RDC\, CROIX -
+  Salle 006 RDC\, CROIX - Salle 007 - 3D RDC\, CROIX - Salle 009 - Info RDC
+ \, CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\, CROIX - SOUK\nMém
+ o : HACKATON IA FOR GOOD\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : IA M2 S2<br/>Intervenant : Madame BA
+ LLART<br/>Promotions : Lille | AV B3 CREACOM\, Lille | BRDESIG MAST1\, Lil
+ le | BRDESIG MAST2\, Lille | CMBRAND MAST1\, Lille | COMDMM MAST2\, Lille 
+ | CYBSEC B3\, Lille | CYBSEC MAST1\, Lille | CYBSEC MAST2\, Lille | DAMD M
+ AST2\, Lille | DESIG B3 MOTD\, Lille | DEVWEB MAST1\, Lille | DEVWEB MAST2
+ \, Lille | DIMEDIA MAST1\, Lille | INFO B3 DEV\, Lille | INFO B3 GPROG\, L
+ ille | MACODI B3 COMC\, Lille | MPBIMSM MAST1<br/>Salles : CROIX - Salle 0
+ 01 RDC\, CROIX - Salle 003 RDC\, CROIX - Salle 004 RDC\, CROIX - Salle 005
+  RDC\, CROIX - Salle 006 RDC\, CROIX - Salle 007 - 3D RDC\, CROIX - Salle 
+ 009 - Info RDC\, CROIX - Salle 101 ETAGE1\, CROIX - Salle 102 ETAGE1\, CRO
+ IX - SOUK<br/>Mémo : HACKATON IA FOR GOOD<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250410T072212Z
+UID:Cours-12006-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250611T070000Z
+DTEND:20250611T090000Z
+SUMMARY;LANGUAGE=fr:Anglais M1 S2 - Lille | DEVWEB MAST1 - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais M1 S2\nPromotion : Lille | DEVWEB
+  MAST1\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais M1 S2<br/>Promotion : Lille 
+ | DEVWEB MAST1<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250701T143055Z
+UID:Cours-12031-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250703T120000Z
+DTEND:20250703T150000Z
+SUMMARY;LANGUAGE=fr:Suivi péda S2 ALT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi péda S2 ALT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi péda S2 ALT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250701T143102Z
+UID:Cours-12032-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250704T120000Z
+DTEND:20250704T150000Z
+SUMMARY;LANGUAGE=fr:Suivi péda S2 ALT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi péda S2 ALT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi péda S2 ALT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250611T051845Z
+UID:Cours-12038-41-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250612T150000Z
+DTEND:20250612T170000Z
+SUMMARY;LANGUAGE=fr:Suivi péda S2 ALT - Madame BALLART - Lille | DEVWEB MAS
+ T1 - Présentation challenge HIT / A.Pozzo di borgo
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi péda S2 ALT\nIntervenant : Madame B
+ ALLART\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - Info
+  RDC\nMémo : Présentation challenge HIT / A.Pozzo di borgo\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi péda S2 ALT<br/>Intervenant : 
+ Madame BALLART<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX - Sa
+ lle 009 - Info RDC<br/>Mémo : Présentation challenge HIT / A.Pozzo di borg
+ o<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250701T143047Z
+UID:Cours-12079-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250702T110000Z
+DTEND:20250702T150000Z
+SUMMARY;LANGUAGE=fr:Suivi péda S2 ALT - Monsieur LEFEBVRE - Lille | DEVWEB 
+ MAST1
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Matière : Suivi péda S2 ALT\nIntervenant : Monsieur
+  LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX - Salle 009 - I
+ nfo RDC\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Suivi péda S2 ALT<br/>Intervenant : 
+ Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<br/>Salle : CROIX -
+  Salle 009 - Info RDC<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250409T150851Z
+UID:Cours-12134-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250704T080000Z
+DTEND:20250704T110000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Monsieur LIEFOOGHE\, Monsieur TRANCA
+ RD - Lille | DEVWEB MAST1 - Atelier vidéo - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Studio 02 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nIntervenants : Monsieur
+  LIEFOOGHE\, Monsieur TRANCARD\nPromotion : Lille | DEVWEB MAST1\nSalle : 
+ CROIX - Studio 02 ETAGE1\nMémo : Atelier vidéo\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Intervenants : 
+ Monsieur LIEFOOGHE\, Monsieur TRANCARD<br/>Promotion : Lille | DEVWEB MAST
+ 1<br/>Salle : CROIX - Studio 02 ETAGE1<br/>Mémo : Atelier vidéo<br/>Type :
+  Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250428T083921Z
+UID:Cours-12219-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250523T120000Z
+DTEND:20250523T150000Z
+SUMMARY;LANGUAGE=fr:RSE M1 S2 - Lille | DEVWEB MAST1 - Intro to task part 2
+  + éval - FOAD
+DESCRIPTION;LANGUAGE=fr:Matière : RSE M1 S2\nPromotion : Lille | DEVWEB MAS
+ T1\nMémo : Intro to task part 2 + éval\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : RSE M1 S2<br/>Promotion : Lille | DE
+ VWEB MAST1<br/>Mémo : Intro to task part 2 + éval<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250428T084026Z
+UID:Cours-12220-38-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250523T150000Z
+DTEND:20250523T160000Z
+SUMMARY;LANGUAGE=fr:Projet Pro M1 S2 - Lille | DEVWEB MAST1 - Donner et rec
+ evoir du feedback - FOAD
+LOCATION;LANGUAGE=fr:MOODLE - DISTANCIEL
+DESCRIPTION;LANGUAGE=fr:Matière : Projet Pro M1 S2\nPromotion : Lille | DEV
+ WEB MAST1\nSalle : MOODLE - DISTANCIEL\nMémo : Donner et recevoir du feedb
+ ack\nType : FOAD\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet Pro M1 S2<br/>Promotion : Lil
+ le | DEVWEB MAST1<br/>Salle : MOODLE - DISTANCIEL<br/>Mémo : Donner et rec
+ evoir du feedback<br/>Type : FOAD<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250612T084453Z
+UID:Cours-12381-44-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250703T080000Z
+DTEND:20250703T110000Z
+SUMMARY;LANGUAGE=fr:Projet de fin d'études M1 INFO - Monsieur EL MOUTAOUKIL
+  - Lille | DEVWEB MAST1
+LOCATION;LANGUAGE=fr:CROIX - Salle 101 ETAGE1
+DESCRIPTION;LANGUAGE=fr:Matière : Projet de fin d'études M1 INFO\nIntervena
+ nt : Monsieur EL MOUTAOUKIL\nPromotion : Lille | DEVWEB MAST1\nSalle : CRO
+ IX - Salle 101 ETAGE1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : Projet de fin d'études M1 INFO<br/>I
+ ntervenant : Monsieur EL MOUTAOUKIL<br/>Promotion : Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 101 ETAGE1<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241122T072415Z
+UID:COURSANNULE-19-12-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241122T080000Z
+DTEND:20241122T120000Z
+SUMMARY;LANGUAGE=fr:Annulation : Gestion projet IT - Monsieur LEFEBVRE - Li
+ lle | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Annulation : \nMatière : Gestion projet IT\nInterve
+ nant : Monsieur LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX 
+ - Salle 009 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Annulation : <br/>Matière : Gestion projet IT<
+ br/>Intervenant : Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20241213T074443Z
+UID:COURSANNULE-26-15-DELAVIGNE_Pierre-Index-Education
+DTSTART:20241213T080000Z
+DTEND:20241213T120000Z
+SUMMARY;LANGUAGE=fr:Annulation : Gestion projet IT - Monsieur LEFEBVRE - Li
+ lle | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 006 RDC
+DESCRIPTION;LANGUAGE=fr:Annulation : \nMatière : Gestion projet IT\nInterve
+ nant : Monsieur LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX 
+ - Salle 006 RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Annulation : <br/>Matière : Gestion projet IT<
+ br/>Intervenant : Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 006 RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250224T072018Z
+UID:COURSANNULE-61-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250228T130000Z
+DTEND:20250228T160000Z
+SUMMARY;LANGUAGE=fr:Annulation : Pilotage stratégie SI - Monsieur YOUNES - 
+ Lille | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Annulation : \nMatière : Pilotage stratégie SI\nInt
+ ervenant : Monsieur YOUNES\nPromotion : Lille | DEVWEB MAST1\nSalle : CROI
+ X - Salle 009 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Annulation : <br/>Matière : Pilotage stratégie
+  SI<br/>Intervenant : Monsieur YOUNES<br/>Promotion : Lille | DEVWEB MAST1
+ <br/>Salle : CROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+LAST-MODIFIED:20250224T154959Z
+UID:COURSANNULE-63-26-DELAVIGNE_Pierre-Index-Education
+DTSTART:20250225T080000Z
+DTEND:20250225T120000Z
+SUMMARY;LANGUAGE=fr:Annulation : Gestion projet IT - Monsieur LEFEBVRE - Li
+ lle | DEVWEB MAST1 - Présentiel
+LOCATION;LANGUAGE=fr:CROIX - Salle 009 - Info RDC
+DESCRIPTION;LANGUAGE=fr:Annulation : \nMatière : Gestion projet IT\nInterve
+ nant : Monsieur LEFEBVRE\nPromotion : Lille | DEVWEB MAST1\nSalle : CROIX 
+ - Salle 009 - Info RDC\nType : Présentiel\n
+X-ALT-DESC;FMTTYPE=text/html:Annulation : <br/>Matière : Gestion projet IT<
+ br/>Intervenant : Monsieur LEFEBVRE<br/>Promotion : Lille | DEVWEB MAST1<b
+ r/>Salle : CROIX - Salle 009 - Info RDC<br/>Type : Présentiel<br/>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-1-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241102
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-2-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20241111
+DTEND;VALUE=DATE:20241112
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-3-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241226
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-4-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-6-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250422
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-7-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-8-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250508
+DTEND;VALUE=DATE:20250509
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-9-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250530
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-11-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250610
+SUMMARY;LANGUAGE=fr:Vacances
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-12-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250715
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20250701T202156Z
+UID:Ferie-13-DELAVIGNE_Pierre-Index-Education
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY;LANGUAGE=fr:Férié
+END:VEVENT
+END:VCALENDAR

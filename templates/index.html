@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlanYnov - Visualisateur 3D</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            color: white;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .upload-section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 30px;
+        }
+
+        .upload-form {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .file-input-wrapper {
+            position: relative;
+            display: inline-block;
+        }
+
+        .file-input {
+            opacity: 0;
+            position: absolute;
+            z-index: -1;
+        }
+
+        .file-input-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: none;
+            font-size: 1.1rem;
+            text-decoration: none;
+        }
+
+        .file-input-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+
+        .upload-button {
+            padding: 15px 40px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .upload-button:hover {
+            background: #218838;
+            transform: translateY(-2px);
+        }
+
+        .flash-messages {
+            margin-bottom: 20px;
+        }
+
+        .flash-message {
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+
+        .flash-success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .flash-error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .data-section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 30px;
+        }
+
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .data-table th,
+        .data-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .data-table th {
+            background: #f8f9fa;
+            font-weight: 600;
+        }
+
+        .data-table tr:hover {
+            background: #f5f5f5;
+        }
+
+        .viewer-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(45deg, #ff6b6b, #ee5a52);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+        }
+
+        .viewer-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .stat-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .container {
+                padding: 10px;
+            }
+            
+            .upload-section, .data-section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏢 PlanYnov</h1>
+            <p>Visualisateur 3D de l'occupation des salles</p>
+        </div>
+
+        <!-- Messages flash -->
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for message in messages %}
+                        <div class="flash-message flash-success">{{ message }}</div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+
+        <!-- Section d'upload -->
+        <div class="upload-section">
+            <h2>📂 Téléverser un fichier d'emploi du temps</h2>
+            <p>Formats supportés : CSV, XLSX, ICS (iCal)</p>
+            
+            <form class="upload-form" method="POST" action="/upload" enctype="multipart/form-data">
+                <div class="file-input-wrapper">
+                    <input type="file" id="file" name="file" class="file-input" accept=".csv,.xlsx,.xls,.ics" required>
+                    <label for="file" class="file-input-button">
+                        📁 Choisir un fichier
+                    </label>
+                </div>
+                
+                <button type="submit" class="upload-button">
+                    🚀 Téléverser et analyser
+                </button>
+            </form>
+        </div>
+
+        <!-- Section des données -->
+        {% if data %}
+            <div class="data-section">
+                <h2>📊 Données chargées</h2>
+                
+                <!-- Statistiques -->
+                <div class="stats">
+                    <div class="stat-card">
+                        <div class="stat-number">{{ data|length }}</div>
+                        <div class="stat-label">Événements</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">{{ data|map(attribute='NomSalle')|unique|list|length }}</div>
+                        <div class="stat-label">Salles uniques</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">{{ data|map(attribute='Etage')|unique|list|length }}</div>
+                        <div class="stat-label">Étages</div>
+                    </div>
+                </div>
+
+                <!-- Bouton vers le visualisateur 3D -->
+                <div style="text-align: center;">
+                    <a href="/public/index.html" class="viewer-button">
+                        🎮 Ouvrir le visualisateur 3D
+                    </a>
+                </div>
+
+                <!-- Tableau des données (limité aux 10 premiers) -->
+                <h3>Aperçu des données (10 premiers événements)</h3>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Salle</th>
+                            <th>Étage</th>
+                            <th>Date</th>
+                            <th>Heure</th>
+                            <th>Cours</th>
+                            <th>Intervenant</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for item in data[:10] %}
+                            <tr>
+                                <td>{{ item.NomSalle }}</td>
+                                <td>{{ item.Etage }}</td>
+                                <td>{{ item.DateOccupation }}</td>
+                                <td>{{ item.HeureDebut }} - {{ item.HeureFin }}</td>
+                                <td>{{ item.NomClasse }}</td>
+                                <td>{{ item.NomIntervenant }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+                
+                {% if data|length > 10 %}
+                    <p style="text-align: center; margin-top: 10px; color: #666;">
+                        ... et {{ data|length - 10 }} autres événements
+                    </p>
+                {% endif %}
+            </div>
+        {% else %}
+            <div class="data-section">
+                <h2>ℹ️ Aucune donnée chargée</h2>
+                <p>Téléversez un fichier d'emploi du temps pour commencer la visualisation.</p>
+            </div>
+        {% endif %}
+    </div>
+
+    <script>
+        // Mise à jour du label du fichier sélectionné
+        document.getElementById('file').addEventListener('change', function(e) {
+            const fileName = e.target.files[0]?.name || 'Choisir un fichier';
+            const label = document.querySelector('.file-input-button');
+            label.textContent = fileName.length > 30 ? '📁 ' + fileName.substring(0, 30) + '...' : '📁 ' + fileName;
+        });
+    </script>
+</body>
+</html>
