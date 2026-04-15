@@ -211,6 +211,20 @@
     <h3>🏢 PlanYnov</h3>
     
     <div class="control-group">
+      <label for="picker-date">Date :</label>
+      <input type="date" id="picker-date" style="width:100%;padding:7px 10px;border:2px solid #ddd;border-radius:8px;font-size:0.9rem;outline:none;">
+    </div>
+
+    <div class="control-group">
+      <label for="picker-time">Heure :</label>
+      <input type="time" id="picker-time" style="width:100%;padding:7px 10px;border:2px solid #ddd;border-radius:8px;font-size:0.9rem;outline:none;">
+    </div>
+
+    <div class="control-group">
+      <button onclick="applyDateTimeFilter()" style="width:100%;margin:0;">🔄 Actualiser</button>
+    </div>
+
+    <div class="control-group">
       <label>Navigation par étage :</label>
       <div class="floor-buttons">
         <button id="btn-all" onclick="showAll()" class="active">Tous</button>
@@ -227,6 +241,10 @@
 
     <div style="font-size: 0.8rem; color: #666; margin-top: 10px;">
       💡 Cliquez sur une salle pour voir les détails
+    </div>
+
+    <div style="font-size: 0.8rem; margin-top: 10px;">
+      <a href="/planning" style="color:#667eea;text-decoration:none;">📅 Voir le planning</a>
     </div>
   </div>
 
@@ -264,6 +282,20 @@
     // Variables globales pour l'interface
     window.activeFloor = 'all';
     window.sceneManager = null;
+
+    // Pré-remplir date et heure actuelles
+    const _now = new Date();
+    document.getElementById('picker-date').value = _now.toISOString().split('T')[0];
+    document.getElementById('picker-time').value = _now.toTimeString().slice(0, 5);
+
+    function applyDateTimeFilter() {
+      const date = document.getElementById('picker-date').value;
+      const time = document.getElementById('picker-time').value;
+      if (window.sceneManager) {
+        window.sceneManager.setDateTime(date, time);
+        updateStatus(`Vue du ${date} à ${time}`);
+      }
+    }
 
     // Fonctions utilitaires pour l'interface (définies globalement)
     function showAll() {

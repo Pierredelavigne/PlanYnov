@@ -50,6 +50,20 @@ class RoomManager {
     this.scene = scene;
     this.THREE = THREE;
     this.cubes = [];
+    this.currentDate = TimeUtils.getCurrentDate();
+    this.currentTime = TimeUtils.getCurrentTime();
+  }
+
+  setDateTime(date, time) {
+    this.currentDate = date;
+    this.currentTime = time;
+    // Recolor existing cubes without re-fetching
+    this.cubes.forEach(cube => {
+      const isOccupied = this.isRoomOccupied(cube.userData);
+      cube.material.color.setHex(
+        isOccupied ? SCENE_CONFIG.ROOM.COLORS.OCCUPIED : SCENE_CONFIG.ROOM.COLORS.FREE
+      );
+    });
   }
 
   /**
@@ -61,14 +75,11 @@ class RoomManager {
   }
 
   /**
-   * Check if a room is currently occupied
+   * Check if a room is occupied at the selected date/time
    */
   isRoomOccupied(room) {
-    const currentTime = TimeUtils.getCurrentTime();
-    const currentDate = TimeUtils.getCurrentDate();
-    
-    return room.DateOccupation === currentDate &&
-           TimeUtils.isTimeInRange(currentTime, room.HeureDebut, room.HeureFin);
+    return room.DateOccupation === this.currentDate &&
+           TimeUtils.isTimeInRange(this.currentTime, room.HeureDebut, room.HeureFin);
   }
 
   /**
@@ -333,6 +344,13 @@ class SceneManager {
    */
   showAll() {
     this.roomManager.showAll();
+  }
+
+  /**
+   * Update date/time and recolor cubes accordingly
+   */
+  setDateTime(date, time) {
+    this.roomManager.setDateTime(date, time);
   }
 }
 

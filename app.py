@@ -151,8 +151,37 @@ class ScheduleParser:
         """Parse un fichier Excel et retourne les données des salles"""
         try:
             df = pd.read_excel(filepath)
-            # Utiliser la même logique que pour CSV
-            return ScheduleParser.parse_csv_file(filepath.replace('.xlsx', '.csv'))
+
+            column_mapping = {
+                'salle': ['NomSalle', 'Salle', 'Room', 'salle'],
+                'etage': ['Etage', 'Floor', 'etage'],
+                'date': ['DateOccupation', 'Date', 'date'],
+                'heure_debut': ['HeureDebut', 'Start', 'Début', 'heure_debut'],
+                'heure_fin': ['HeureFin', 'End', 'Fin', 'heure_fin'],
+                'classe': ['NomClasse', 'Classe', 'Course', 'classe'],
+                'intervenant': ['NomIntervenant', 'Intervenant', 'Teacher', 'intervenant']
+            }
+
+            normalized_data = []
+            for _, row in df.iterrows():
+                salle_data = {}
+                for key, possible_names in column_mapping.items():
+                    for name in possible_names:
+                        if name in df.columns:
+                            salle_data[column_mapping[key][0]] = row[name]
+                            break
+                    else:
+                        salle_data[column_mapping[key][0]] = ""
+
+                if not salle_data.get('Etage') and salle_data.get('NomSalle'):
+                    room_code = str(salle_data['NomSalle']).replace('S', '').replace('s', '')
+                    salle_data['Etage'] = ScheduleParser.determine_floor(room_code)
+
+                normalized_data.append(salle_data)
+
+            logger.info(f"Parsé {len(normalized_data)} lignes depuis le fichier Excel")
+            return normalized_data
+
         except Exception as e:
             logger.error(f"Erreur lors de la lecture du fichier Excel: {e}")
             return []
@@ -229,6 +258,83 @@ def api_salles_occupation():
     except Exception as e:
         logger.error(f"Erreur dans l'API salles/occupation: {e}")
         return jsonify({"error": "Erreur lors de la récupération des données"}), 500
+
+
+@app.route("/api/salles/libres")
+def api_salles_libres():
+    """API REST - Salles libres pour un créneau donné (date + heure_debut + heure_fin)"""
+    global current_schedule_data
+
+    date_param = request.args.get('date', datetime.now().strftime("%Y-%m-%d"))
+    heure_debut = request.args.get('heure_debut', datetime.now().strftime("%H:%M"))
+    heure_fin = request.args.get('heure_fin', "")
+
+    if not current_schedule_data and os.path.exists(DEFAULT_ICAL_FILE):
+        current_schedule_data = ScheduleParser.parse_ical_file(DEFAULT_ICAL_FILE)
+
+    # Toutes les salles connues
+    toutes_salles = {item['NomSalle'] for item in current_schedule_data}
+
+    # Salles occupées sur le créneau demandé
+    salles_occupees = set()
+    for item in current_schedule_data:
+        if item.get('DateOccupation') != date_param:
+            continue
+        debut = item.get('HeureDebut', '')
+        fin = item.get('HeureFin', '')
+        # Chevauchement : le créneau demandé chevauche l'occupation si debut < fin_demandee et fin > debut_demande
+        if heure_fin:
+            if debut < heure_fin and fin > heure_debut:
+                salles_occupees.add(item['NomSalle'])
+        else:
+            if debut <= heure_debut < fin:
+                salles_occupees.add(item['NomSalle'])
+
+    salles_libres = sorted(toutes_salles - salles_occupees)
+    return jsonify({
+        "date": date_param,
+        "heure_debut": heure_debut,
+        "heure_fin": heure_fin,
+        "salles_libres": salles_libres,
+        "salles_occupees": sorted(salles_occupees),
+        "total_libres": len(salles_libres),
+        "total_occupees": len(salles_occupees)
+    })
+
+
+@app.route("/api/planning")
+def api_planning():
+    """API REST - Planning complet groupé par date puis par heure"""
+    global current_schedule_data
+
+    date_param = request.args.get('date')
+
+    if not current_schedule_data and os.path.exists(DEFAULT_ICAL_FILE):
+        current_schedule_data = ScheduleParser.parse_ical_file(DEFAULT_ICAL_FILE)
+
+    data = current_schedule_data
+    if date_param:
+        data = [item for item in data if item.get('DateOccupation') == date_param]
+
+    # Grouper par date
+    planning: Dict[str, list] = {}
+    for item in data:
+        date = item.get('DateOccupation', 'Inconnu')
+        if date not in planning:
+            planning[date] = []
+        planning[date].append(item)
+
+    # Trier les événements de chaque jour par heure de début
+    for date in planning:
+        planning[date].sort(key=lambda x: x.get('HeureDebut', ''))
+
+    return jsonify(planning)
+
+
+@app.route("/planning")
+def page_planning():
+    """Page HTML du planning par jour"""
+    return render_template('planning.html', data=current_schedule_data)
 
 
 @app.route("/api/stats")

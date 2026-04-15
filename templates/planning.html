@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlanYnov - Planning des salles</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        .header { text-align: center; margin-bottom: 30px; color: white; }
+        .header h1 { font-size: 2.5rem; margin-bottom: 8px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        .nav-links { text-align: center; margin-bottom: 20px; }
+        .nav-links a {
+            display: inline-block;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            text-decoration: none;
+            border-radius: 20px;
+            margin: 0 5px;
+            transition: background 0.3s;
+        }
+        .nav-links a:hover { background: rgba(255,255,255,0.4); }
+
+        .controls {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+            display: flex;
+            gap: 20px;
+            align-items: flex-end;
+            flex-wrap: wrap;
+        }
+        .control-group { display: flex; flex-direction: column; gap: 5px; }
+        .control-group label { font-weight: 600; color: #555; font-size: 0.9rem; }
+        .control-group input, .control-group select {
+            padding: 10px 15px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+        .control-group input:focus, .control-group select:focus { border-color: #667eea; }
+        .btn {
+            padding: 10px 25px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .btn-primary { background: linear-gradient(45deg, #667eea, #764ba2); color: white; }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.2); }
+        .btn-success { background: #28a745; color: white; }
+        .btn-success:hover { transform: translateY(-2px); }
+
+        .free-rooms-section {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+        }
+        .free-rooms-section h2 { margin-bottom: 15px; color: #444; }
+        .room-badges { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+        .badge {
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+        .badge-free { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .badge-occupied { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+
+        .planning-section {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+        }
+        .planning-section h2 { margin-bottom: 20px; color: #444; }
+
+        .day-block { margin-bottom: 30px; }
+        .day-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #667eea;
+            padding: 10px 0;
+            border-bottom: 2px solid #667eea;
+            margin-bottom: 12px;
+        }
+        .event-card {
+            display: grid;
+            grid-template-columns: 100px 1fr 1fr 1fr;
+            gap: 10px;
+            align-items: center;
+            padding: 12px 15px;
+            border-radius: 10px;
+            margin-bottom: 8px;
+            border-left: 4px solid #667eea;
+            background: #f8f9fa;
+            transition: background 0.2s;
+        }
+        .event-card:hover { background: #e9ecef; }
+        .event-time { font-weight: 700; color: #667eea; font-size: 0.95rem; }
+        .event-room {
+            font-weight: 600;
+            background: #667eea;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 10px;
+            font-size: 0.85rem;
+            text-align: center;
+            width: fit-content;
+        }
+        .event-course { color: #333; }
+        .event-teacher { color: #666; font-size: 0.9rem; }
+
+        .empty-state { text-align: center; padding: 40px; color: #666; }
+        .loading { text-align: center; padding: 20px; color: #667eea; font-size: 1.1rem; }
+
+        @media (max-width: 768px) {
+            .event-card { grid-template-columns: 1fr 1fr; }
+            .event-teacher { display: none; }
+            .controls { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>📅 Planning des salles</h1>
+        <p>Consultez les occupations et trouvez des salles libres</p>
+    </div>
+
+    <div class="nav-links">
+        <a href="/">🏠 Accueil</a>
+        <a href="/public/index.html">🎮 Vue 3D</a>
+        <a href="/planning">📅 Planning</a>
+    </div>
+
+    <div class="controls">
+        <div class="control-group">
+            <label for="filter-date">Date</label>
+            <input type="date" id="filter-date">
+        </div>
+        <div class="control-group">
+            <label for="filter-heure-debut">Heure début</label>
+            <input type="time" id="filter-heure-debut">
+        </div>
+        <div class="control-group">
+            <label for="filter-heure-fin">Heure fin</label>
+            <input type="time" id="filter-heure-fin">
+        </div>
+        <button class="btn btn-success" onclick="rechercherSallesLibres()">
+            🔍 Trouver des salles libres
+        </button>
+        <button class="btn btn-primary" onclick="chargerPlanning()">
+            📋 Voir le planning
+        </button>
+    </div>
+
+    <div class="free-rooms-section" id="free-rooms-section" style="display:none;">
+        <h2 id="free-rooms-title">Salles disponibles</h2>
+        <div>
+            <strong>Salles libres :</strong>
+            <div class="room-badges" id="free-badges"></div>
+        </div>
+        <div style="margin-top: 15px;">
+            <strong>Salles occupées :</strong>
+            <div class="room-badges" id="occupied-badges"></div>
+        </div>
+    </div>
+
+    <div class="planning-section">
+        <h2>📆 Emploi du temps</h2>
+        <div id="planning-content">
+            <div class="empty-state">Sélectionnez une date et cliquez sur "Voir le planning"</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Pré-remplir avec aujourd'hui et l'heure actuelle
+    const now = new Date();
+    document.getElementById('filter-date').value = now.toISOString().split('T')[0];
+    document.getElementById('filter-heure-debut').value = now.toTimeString().slice(0, 5);
+    const later = new Date(now.getTime() + 60 * 60 * 1000);
+    document.getElementById('filter-heure-fin').value = later.toTimeString().slice(0, 5);
+
+    // Charger le planning du jour automatiquement
+    chargerPlanning();
+
+    async function rechercherSallesLibres() {
+        const date = document.getElementById('filter-date').value;
+        const heureDebut = document.getElementById('filter-heure-debut').value;
+        const heureFin = document.getElementById('filter-heure-fin').value;
+
+        const params = new URLSearchParams({ date, heure_debut: heureDebut, heure_fin: heureFin });
+        const resp = await fetch(`/api/salles/libres?${params}`);
+        const data = await resp.json();
+
+        const section = document.getElementById('free-rooms-section');
+        const title = document.getElementById('free-rooms-title');
+        section.style.display = 'block';
+
+        title.textContent = `Salles disponibles le ${date} de ${heureDebut} à ${heureFin || '...'}`;
+
+        const freeBadges = document.getElementById('free-badges');
+        freeBadges.innerHTML = data.salles_libres.length
+            ? data.salles_libres.map(s => `<span class="badge badge-free">${s}</span>`).join('')
+            : '<span style="color:#666">Aucune salle libre</span>';
+
+        const occupiedBadges = document.getElementById('occupied-badges');
+        occupiedBadges.innerHTML = data.salles_occupees.length
+            ? data.salles_occupees.map(s => `<span class="badge badge-occupied">${s}</span>`).join('')
+            : '<span style="color:#666">Aucune salle occupée</span>';
+    }
+
+    async function chargerPlanning() {
+        const date = document.getElementById('filter-date').value;
+        const content = document.getElementById('planning-content');
+        content.innerHTML = '<div class="loading">Chargement...</div>';
+
+        const params = date ? `?date=${date}` : '';
+        const resp = await fetch(`/api/planning${params}`);
+        const planning = await resp.json();
+
+        const dates = Object.keys(planning).sort();
+        if (dates.length === 0) {
+            content.innerHTML = '<div class="empty-state">Aucun événement trouvé pour cette date.</div>';
+            return;
+        }
+
+        content.innerHTML = dates.map(d => {
+            const events = planning[d];
+            const label = new Date(d + 'T00:00:00').toLocaleDateString('fr-FR', {
+                weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+            });
+            const eventCards = events.map(e => `
+                <div class="event-card">
+                    <div class="event-time">${e.HeureDebut} – ${e.HeureFin}</div>
+                    <div><span class="event-room">${e.NomSalle}</span></div>
+                    <div class="event-course">${e.NomClasse}</div>
+                    <div class="event-teacher">👤 ${e.NomIntervenant}</div>
+                </div>
+            `).join('');
+            return `<div class="day-block"><div class="day-title">📅 ${label} (${events.length} cours)</div>${eventCards}</div>`;
+        }).join('');
+    }
+</script>
+</body>
+</html>
